@@ -178,6 +178,6 @@ npm run dev
 
 ---
 
-**Author:** [Your Name]
-**Date:** October 2025
+**Author:** Mahalakshmi K
+**Date:** 7th October 2025
 **Status:** Final — Ready for Implementation
